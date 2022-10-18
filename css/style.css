@@ -26,3 +26,9 @@ strong{
 span{
     color: #f02425;
 }
+a{
+    font-weight: bold;
+    color:#3e8fd6 ;
+    text-decoration: underline;
+    font-weight: 2em;
+}
