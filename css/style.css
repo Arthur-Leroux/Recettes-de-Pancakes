@@ -1,9 +1,10 @@
 /*la police est sans-serif pour tout le document*/
 html {
+    display: grid;
   font-family: sans-serif;
   background-color: #fff3db;
 }
-/* h1 */
+/* titres */
 h1 {
   color: white;
   background-color: #f02425;
@@ -20,6 +21,7 @@ h3 {
   font-weight: lighter;
   font-style: italic;
 }
+/*paragraphes*/
 strong {
   color: #f02425;
 }
@@ -29,7 +31,7 @@ span {
 
 a {
   font-weight: bold;
-  color: #3A97D9;
+  color: #3a97d9;
   text-decoration: underline;
   font-weight: 2em;
 }
@@ -42,11 +44,11 @@ a {
   font-style: italic;
 }
 /*Position image pancake*/
-.picture{
-    text-align: center;
+.picture {
+  text-align: center;
+}
+img {
+  width: 50em;
+  height: 30em;
+}
 
-}
-img{
-    width: 50em;
-    height: 30em;
-}
