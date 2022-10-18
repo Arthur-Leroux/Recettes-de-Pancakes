@@ -41,3 +41,12 @@ a {
   text-align: center;
   font-style: italic;
 }
+/*Position image pancake*/
+.picture{
+    text-align: center;
+
+}
+img{
+    width: 50em;
+    height: 30em;
+}
