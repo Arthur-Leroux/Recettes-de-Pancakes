@@ -1,0 +1,28 @@
+/*la police est sans-serif pour tout le document*/
+html{
+    font-family: sans-serif;
+   background-color: #fff3db;
+}
+/* h1 */
+h1{
+   color: white;
+   background-color: #f02425;
+   text-align: center;
+   font-size:5em;
+}
+h2{
+    color: #f02425;
+    text-align: center;
+}
+h3{
+    text-align: center;
+    text-decoration: underline;
+    font-weight: lighter;
+    font-style: italic;
+}
+strong{
+    color:#f02425;
+}
+span{
+    color: #f02425;
+}
